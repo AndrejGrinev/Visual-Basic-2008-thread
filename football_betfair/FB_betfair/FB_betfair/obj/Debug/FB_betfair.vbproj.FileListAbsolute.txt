@@ -1,0 +1,12 @@
+C:\football_betfair\FB_betfair\FB_betfair\bin\Debug\FB_betfair.exe
+C:\football_betfair\FB_betfair\FB_betfair\bin\Debug\FB_betfair.pdb
+C:\football_betfair\FB_betfair\FB_betfair\bin\Debug\FB_betfair.xml
+C:\football_betfair\FB_betfair\FB_betfair\obj\Debug\ResolveAssemblyReference.cache
+C:\football_betfair\FB_betfair\FB_betfair\obj\Debug\FB_betfair.Form1.resources
+C:\football_betfair\FB_betfair\FB_betfair\obj\Debug\FB_betfair.Resources.resources
+C:\football_betfair\FB_betfair\FB_betfair\obj\Debug\FB_betfair.vbproj.GenerateResource.Cache
+C:\football_betfair\FB_betfair\FB_betfair\obj\Debug\FB_betfair.exe
+C:\football_betfair\FB_betfair\FB_betfair\obj\Debug\FB_betfair.xml
+C:\football_betfair\FB_betfair\FB_betfair\obj\Debug\FB_betfair.pdb
+C:\football_betfair\FB_betfair\FB_betfair\bin\Debug\FB_betfair.exe.config
+C:\football_betfair\FB_betfair\FB_betfair\obj\Debug\FB_betfair.Form2.resources
